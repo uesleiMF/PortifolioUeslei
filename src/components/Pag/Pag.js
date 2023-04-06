@@ -1,7 +1,7 @@
 import React from "react";
 import c0 from "../../components/Img/s.png";
 import c1 from "../../components/Img/se.png";
-import c2 from "../../components/Img/c2.jpg";
+//import c2 from "../../components/Img/c2.jpg";
 import c3 from "../../components/Img/c3.jpg";
 import c4 from "../../components/Img/cel.png";
 import c5 from "../../components/Img/c5.jpg";
@@ -49,7 +49,7 @@ export default function Pag() {
                   src={c0}
                   alt="bo"
                  
-                  height="205px"
+                  height="250px"
                   className="card-img-top"
                 />    </div>
     <div class="flip-card-back">
