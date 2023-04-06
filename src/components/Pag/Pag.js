@@ -23,8 +23,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Pag() {
   return (
-    <div className="container">
-      <div className="card mt-4 bg-info bg-opacity-50">
+   
+   <div className="container-fluid">
+      <div className="card mt-4 bg-info bg-opacity-25">
         <div className="card-title">
           <div className="row">
             <div className="col">
@@ -133,23 +134,19 @@ export default function Pag() {
     
       
 
-      <div className="card mt-4 bg-info bg-opacity-50">
+      <div className="card mt-4 bg-Light bg-opacity-50">
         <div className="row mb-3">
-        <p className="mx-3 my-3 mb-0 text-center fs-2 fw-bold">
+        <p className="mx-3 my-3 mb-0 text-center fs-4 fw-bold">
             {" "}
-            VISITE-NOS 
+           MEUS CURSOS
           </p>
          
-          <p className="mx-3 my-3 text-center fs-3 fw-bold">
-            {" "}
-            CLIQUE NAS IMAGENS ABAIXO:
+          <p className="mx-3 my-3 text-center fs-4 fw-bold">
+         
           </p>
-          <p className="mx-3 my-3 text-center fs-3 fw-bold">
-            {" "}
-           E SEJÁ DIRECIONADO PARA UMA CELULA MAIS PROXIMA DE SUA CASA:
-          </p>
+        
 
-          <div class="col-4 p-2">
+          <div class="col-4 p-3">
          
           <div class="flip-card">
   <div class="flip-card-inner">
@@ -158,7 +155,7 @@ export default function Pag() {
                   src={c1}
                   alt="bo"
                  
-                  height="200px"
+                  height="210px"
                   className="card-img-top"
                 />    </div>
     <div class="flip-card-back">
@@ -181,7 +178,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -190,7 +187,7 @@ export default function Pag() {
                  src={c2}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -211,7 +208,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -220,7 +217,7 @@ export default function Pag() {
                  src={c3}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -244,7 +241,7 @@ export default function Pag() {
 
 
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -253,7 +250,7 @@ export default function Pag() {
                  src={c4}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -275,7 +272,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -284,7 +281,7 @@ export default function Pag() {
                  src={c5}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -305,7 +302,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -314,7 +311,7 @@ export default function Pag() {
                  src={c6}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -336,7 +333,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -345,7 +342,7 @@ export default function Pag() {
                  src={c7}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -367,7 +364,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -376,7 +373,7 @@ export default function Pag() {
                  src={c8}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -397,7 +394,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -406,7 +403,7 @@ export default function Pag() {
                  src={c9}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -428,7 +425,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -437,7 +434,7 @@ export default function Pag() {
                  src={c10}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -460,7 +457,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-2">
+<div class="col-4 p-3">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -469,7 +466,7 @@ export default function Pag() {
                  src={c0}
                  alt="bo"
                 
-                 height="200px"
+                 height="210px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
