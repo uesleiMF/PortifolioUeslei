@@ -138,7 +138,7 @@ export default function Pag() {
         <div className="row mb-3">
         <p className="mx-3 my-3 mb-0 text-center fs-4 fw-bold">
             {" "}
-           MEUS CURSOS
+           (MEUS-CURSOS)
           </p>
          
           <p className="mx-3 my-3 text-center fs-4 fw-bold">
