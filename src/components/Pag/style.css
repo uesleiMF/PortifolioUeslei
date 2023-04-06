@@ -1,9 +1,8 @@
 .flip-card {
     background-color: transparent;
-    margin-right: auto;
-    margin: 5px;
-    width: 190px;
-    height: 235px;
+  
+    width: 320px;
+    height: 205px;
     border-radius: 5%;
     box-shadow: 0 6px 5px rgb(130, 23, 192);
     border: 1px solid #dc90f0;
