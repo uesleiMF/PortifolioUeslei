@@ -4,7 +4,7 @@
     width: 315px;
     height: 205px;
     border-radius: 5%;
-    box-shadow: 0 6px 5px rgb(130, 23, 192);
+    box-shadow: 0 6px 5px rgb(216, 164, 233);
     border: 1px solid #dc90f0;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
@@ -36,16 +36,16 @@
   /* Style the front side (fallback if image is missing) */
   .flip-card-front {
     border-radius: 5%;
-    box-shadow: 0 6px 5px rgb(130, 23, 192);
-    background-color: #3ef7b9;
+    box-shadow: 0 6px 5px rgb(239, 237, 240);
+    background-color: #abc5c5;
     color: black;
   }
   
   /* Style the back side */
   .flip-card-back {
     border-radius: 5%;
-    box-shadow: 0 6px 5px rgb(130, 23, 192);
-    background-color: rgb(190, 163, 224);
+    box-shadow: 0 6px 5px rgb(7, 7, 7);
+    background-color: rgb(20, 19, 20);
     color: white;
     transform: rotateY(180deg);
   }
