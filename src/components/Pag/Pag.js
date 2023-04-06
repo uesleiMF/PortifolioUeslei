@@ -155,7 +155,7 @@ export default function Pag() {
                   src={c1}
                   alt="bo"
                  
-                  height="210px"
+                  height="200px"
                   className="card-img-top"
                 />    </div>
     <div class="flip-card-back">
@@ -187,7 +187,7 @@ export default function Pag() {
                  src={c2}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -217,7 +217,7 @@ export default function Pag() {
                  src={c3}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -250,7 +250,7 @@ export default function Pag() {
                  src={c4}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -281,7 +281,7 @@ export default function Pag() {
                  src={c5}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -311,7 +311,7 @@ export default function Pag() {
                  src={c6}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -342,7 +342,7 @@ export default function Pag() {
                  src={c7}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -373,7 +373,7 @@ export default function Pag() {
                  src={c8}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -403,7 +403,7 @@ export default function Pag() {
                  src={c9}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -434,7 +434,7 @@ export default function Pag() {
                  src={c10}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
@@ -466,7 +466,7 @@ export default function Pag() {
                  src={c0}
                  alt="bo"
                 
-                 height="210px"
+                 height="200px"
                  className="card-img-top"
                />    </div>
    <div class="flip-card-back">
