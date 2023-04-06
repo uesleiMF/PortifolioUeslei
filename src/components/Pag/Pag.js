@@ -146,7 +146,7 @@ export default function Pag() {
           </p>
         
 
-          <div class="col-4 p-3">
+          <div class="col-4 p-2">
          
           <div class="flip-card">
   <div class="flip-card-inner">
@@ -178,7 +178,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -208,7 +208,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -241,7 +241,7 @@ export default function Pag() {
 
 
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -272,7 +272,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -302,7 +302,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -333,7 +333,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -364,7 +364,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -394,7 +394,7 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -425,7 +425,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -457,7 +457,7 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-4 p-3">
+<div class="col-4 p-2">
          
          <div class="flip-card">
  <div class="flip-card-inner">
