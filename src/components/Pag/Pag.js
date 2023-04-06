@@ -1,4 +1,3 @@
-//import { Carousel } from 'react-responsive-carousel';
 import React from "react";
 import { CCarousel, CCarouselItem, CImage } from "@coreui/react";
 import c0 from "../../components/Img/c0.jpg";
@@ -13,9 +12,7 @@ import c8 from "../../components/Img/c8.jpg";
 import c9 from "../../components/Img/c9.jpg";
 import c10 from "../../components/Img/cel1.png";
 
-import { BsFillGeoAltFill } from "react-icons/bs";
 
-import { Icon } from "./styles";
 
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./style.css";
@@ -24,7 +21,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default function Pag() {
   return (
    
-   <div className="container-fluid">
+   <div className="container">
       <div className="card mt-4 bg-info bg-opacity-25">
         <div className="card-title">
           <div className="row">
@@ -163,15 +160,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-      <Icon>
-    
-            <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-      
-      <BsFillGeoAltFill />
-            
-            </a>
-
-            </Icon>
+     
             
     </div>
   </div>
@@ -195,15 +184,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
    
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
     </div>
   </div>
 </div> 
@@ -225,15 +206,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -258,15 +231,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
      
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
     </div>
   </div>
 </div> 
@@ -289,15 +254,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -319,15 +276,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
    
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+  
     </div>
   </div>
 </div> 
@@ -350,15 +299,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
    
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -381,15 +322,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -411,15 +344,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -443,15 +368,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
     
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+    
     </div>
   </div>
 </div> 
@@ -474,15 +391,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
     
-     <Icon>
    
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
     </div>
   </div>
 </div> 
@@ -505,15 +414,7 @@ export default function Pag() {
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">FOLHA 10 QUADRA 00 LOTE 00</p>
    <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">LOCALIZAÇÃO ABAIXO</p>
   
-     <Icon>
-   
-           <a href="https://maps.app.goo.gl/e9p6hr2WNqNPU19V9">
-     
-     <BsFillGeoAltFill />
-           
-           </a>
-
-           </Icon>
+  
     </div>
   </div>
 </div> 

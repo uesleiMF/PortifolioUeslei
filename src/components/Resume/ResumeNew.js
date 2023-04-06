@@ -33,11 +33,11 @@ function ResumeNew() {
 
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={1}scale={width > 700? 0.7 : 1.2} />
+            <Page pageNumber={1}scale={width > 600? 0.7 : 0.5} />
             
           </Document>
           <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={2}scale={width > 700? 0.7 : 1.2} />
+            <Page pageNumber={2}scale={width > 600? 0.7 : 0.5} />
             
           </Document>
         </Row>
