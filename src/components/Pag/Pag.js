@@ -1,5 +1,4 @@
 import React from "react";
-import { CCarousel, CCarouselItem, CImage } from "@coreui/react";
 import c0 from "../../components/Img/c0.jpg";
 import c1 from "../../components/Img/c1.jpg";
 import c2 from "../../components/Img/c2.jpg";
@@ -21,129 +20,27 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default function Pag() {
   return (
    
-   <div className="container">
-      <div className="card mt-4 bg-info bg-opacity-25">
-        <div className="card-title">
-          <div className="row">
-            <div className="col">
-            
-      </div>
-          </div>
-        </div>
-
-        <CCarousel controls indicators>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c0}
-              height="350px"
-              alt="slide 1"
-            />
-          </CCarouselItem>
-
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c1}
-              height="350px"
-              alt="slide 2"
-            />
-          </CCarouselItem>
-
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c2}
-              height="350px"
-              alt="slide 3"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c3}
-              height="350px"
-              alt="slide 4"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c4}
-              height="350px"
-              alt="slide 5"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c5}
-              height="350px"
-              alt="slide 6"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c6}
-              height="350px"
-              alt="slide 7"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c7}
-              height="350px"
-              alt="slide 8"
-            />
-          </CCarouselItem>
-
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c8}
-              height="350px"
-              alt="slide 9"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c9}
-              height="350px"
-              alt="slide 10"
-            />
-          </CCarouselItem>
-          <CCarouselItem>
-            <CImage
-              className="d-block "
-              src={c10}
-              height="350px"
-              alt="slide 10"
-            />
-          </CCarouselItem>
-        </CCarousel>
-
-        <div></div>
-      </div>
-
-    
+ 
+ 
+ <div className="container">
+      
+      
       
 
-      <div className="card mt-4 bg-Light bg-opacity-50">
-        <div className="row mb-3">
-        <p className="mx-3 my-3 mb-0 text-center fs-4 fw-bold">
-            {" "}
-           MEUS CURSOS
-          </p>
+      <div className="card mt-4 bg-black">
+        <div className="row mb-5">
+        <p></p>
+       <p></p>
          
           <p className="mx-3 my-3 text-center fs-4 fw-bold">
          
           </p>
-        
+         <p className="mx-3 my-3 mb-0 text-center fs-4 fw-bold text-white">
+            {" "}
+           MEUS CURSOS
+          </p>
 
-          <div class="col-sm p-3">
+          <div class="d-flex align-items-center justify-content-center p-5">
          
           <div class="flip-card">
   <div class="flip-card-inner">
@@ -167,7 +64,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -189,7 +87,8 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -214,7 +113,8 @@ export default function Pag() {
 
 
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -237,7 +137,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -259,7 +160,8 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -282,7 +184,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -305,7 +208,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -327,7 +231,8 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -350,7 +255,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -373,7 +279,8 @@ export default function Pag() {
   </div>
 </div> 
 </div>
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
@@ -397,7 +304,8 @@ export default function Pag() {
 </div> 
 </div>
 
-<div class="col-sm p-3">
+<div class="d-flex align-items-center justify-content-center p-5">
+         
          
          <div class="flip-card">
  <div class="flip-card-inner">
