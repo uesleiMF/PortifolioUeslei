@@ -56,14 +56,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                    Descrição:
+                    </p>
+                
                 </div>
               </div>
             </div>
@@ -82,14 +77,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -108,14 +98,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -134,14 +119,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -160,14 +140,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -186,14 +161,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -211,14 +181,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -237,14 +202,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -263,14 +223,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -288,14 +243,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -314,14 +264,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -386,14 +331,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+               
                 </div>
               </div>
             </div>
@@ -411,14 +351,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -437,14 +372,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                
                 </div>
               </div>
             </div>
@@ -462,14 +392,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+              
                 </div>
               </div>
             </div>
@@ -488,13 +413,7 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
+                  Descrição:
                   </p>
                 </div>
               </div>
@@ -536,14 +455,9 @@ export default function Pag() {
                 </div>
                 <div class="flip-card-back">
                   <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
+                  Descrição:
                   </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
+                  
                 </div>
               </div>
             </div>

@@ -8,13 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+           
+            
+            <br />Estou trabalhando no ramo de segurança eletrônica
+             já trabalhei na área elétrica e agora estou estudando 
+             em uma área que me identifiquei e quero exercê-la
+              Analise e Desenvolvimento de Sistemas meu foco maior 
+              e trabalhar com vocês me empenhar em todos os treinamentos 
+              para que no futuro próximo eu venha crescer e me
+             desenvolver com a empresa.
           </p>
           <ul>
             <li className="about-activity">

@@ -4,7 +4,8 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import logo from "../Assets/lo.png";
 import { Link } from "react-router-dom";
-import { ImBlog } from "react-icons/im";
+import {SlGraduation} from "react-icons/sl";
+
 import {
  
   AiOutlineHome,
@@ -53,7 +54,7 @@ function NavBar() {
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
+                <AiOutlineHome style={{ marginBottom: "2px" }} /> Inicio
               </Nav.Link>
             </Nav.Item>
 
@@ -63,7 +64,7 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+                <AiOutlineUser style={{ marginBottom: "2px" }} /> Sobre
               </Nav.Link>
             </Nav.Item>
 
@@ -76,7 +77,7 @@ function NavBar() {
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
                 />{" "}
-                Projects
+                Projetos
               </Nav.Link>
             </Nav.Item>
 
@@ -86,7 +87,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Curriculo
               </Nav.Link>
             </Nav.Item>
 
@@ -96,7 +97,7 @@ function NavBar() {
                  to="/pag"
                  onClick={() => updateExpanded(false)}
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Cursos
+                <SlGraduation style={{ marginBottom: "2px" }} /> Cursos
               </Nav.Link>
             </Nav.Item>
 
