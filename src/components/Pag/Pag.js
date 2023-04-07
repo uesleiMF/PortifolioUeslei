@@ -21,7 +21,7 @@ import c18 from "../../components/Img/38.png";
 import c19 from "../../components/Img/39.png";
 import c20 from "../../components/Img/40.png";
 import c21 from "../../components/Img/41.png";
-
+import c22 from "../../components/Img/42.png";
 
 
 
@@ -326,32 +326,7 @@ export default function Pag() {
               </div>
             </div>
           </div>
-          <div class="d-flex align-items-center justify-content-center p-5">
-            <div class="flip-card">
-              <div class="flip-card-inner">
-                <div class="flip-card-front">
-                  <img
-                    src={c10}
-                    alt="bo"
-                    height="255px"
-                    className="card-img-top"
-                  />{" "}
-                </div>
-                <div class="flip-card-back">
-                  <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
-                    ENDEREÇO:
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    FOLHA 10 QUADRA 00 LOTE 00
-                  </p>
-                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
-                    LOCALIZAÇÃO ABAIXO
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-
+        
         
           <div class="d-flex align-items-center justify-content-center p-5">
             <div class="flip-card">
@@ -548,7 +523,31 @@ export default function Pag() {
               </div>
             </div>
           </div>
-
+          <div class="d-flex align-items-center justify-content-center p-5">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img
+                    src={c22}
+                    alt="bo"
+                    height="255px"
+                    className="card-img-top"
+                  />{" "}
+                </div>
+                <div class="flip-card-back">
+                  <p className="mx-3 my-3 mb-0 text-center fs-5 fw-bold">
+                    ENDEREÇO:
+                  </p>
+                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
+                    FOLHA 10 QUADRA 00 LOTE 00
+                  </p>
+                  <p className="mx-3 my-3 mb-0 text-center fs-6 fw-bold">
+                    LOCALIZAÇÃO ABAIXO
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
 
 
 
