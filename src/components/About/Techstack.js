@@ -10,8 +10,16 @@ import {
 } from "react-icons/di";
 import {
   SiFirebase,
+  SiNestjs,
+  SiCss3,
+  SiMysql,
+  SiPostgresql,
   SiNextdotjs,
 } from "react-icons/si";
+
+import {IoLogoHtml5} from "react-icons/io";
+
+
 
 function Techstack() {
   return (
@@ -38,8 +46,24 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
       </Col>
-     
-      
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNestjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMysql />
+      </Col>
+   
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <IoLogoHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCss3 />
+      </Col>
+
+
     </Row>
   );
 }
