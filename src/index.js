@@ -12,5 +12,9 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
+const toggle = document.querySelector('.hover-show');
 
+toggle.addEventListener('click', () => {
+  toggle.classList.toggle('active');
+});
 reportWebVitals();
