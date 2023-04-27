@@ -45,9 +45,10 @@
 
 .home-container .logo .circle {
   position: absolute;
-  height: 75px;
-  width: 75px;
+  height: 85px;
+  width: 85px;
   border-radius: 50%;
+  border: 3px solid rgb(229, 245, 10);
   background-color: rgb(76, 224, 108);
   display: flex;
   justify-content: center;
