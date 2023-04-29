@@ -2,9 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import A from "../../Assets/Projects/A.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import U from "../../Assets/Projects/U.png";
 
 function Projects() {
   return (
@@ -31,12 +30,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={U}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from  markdown."
+              title="Portifolio"
+              description="Meu Portifolio."
               ghLink="https://github.com/uesleiMF"
-              demoLink="https://"
+              demoLink="https://portifolio-ueslei.vercel.app/"
             />
           </Col>
 
