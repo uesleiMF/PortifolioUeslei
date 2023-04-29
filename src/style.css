@@ -12,11 +12,20 @@ html {
   );
 
   --imp-text-color: #2bb437;
+  --impe-text-color: #de90e6;
 }
 
 .purple {
   color: var(--imp-text-color) !important;
 }
+
+
+.pur {
+  color: var(--impe-text-color) !important;
+}
+
+
+
 
 button:focus {
   box-shadow: none !important;
@@ -155,6 +164,8 @@ button:focus {
 }
 
 .logo {
+  
+  border-radius: 50%;
   height: 1.4em !important;
   width: 2.5em !important;
 }

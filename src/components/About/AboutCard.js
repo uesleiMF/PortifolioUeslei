@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
@@ -8,32 +7,58 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-           
-            
-            <br />Estou trabalhando no ramo de segurança eletrônica
-             já trabalhei na área elétrica e agora estou estudando 
-             em uma área que me identifiquei e quero exercê-la
-              Analise e Desenvolvimento de Sistemas meu foco maior 
-              e trabalhar com vocês me empenhar em todos os treinamentos 
-              para que no futuro próximo eu venha crescer e me
-             desenvolver com a empresa.
+            <br />
+            Estou trabalhando no ramo de Segurança Eletrônica já trabalhei na
+            área Elétrica e agora estou estudando em uma área que me
+            identifiquei e quero exercê-la Tenho Graduação em Analise e
+            Desenvolvimento de Sistemas, Sou um programador web com 4 anos
+            praticando. No momento apenas cursos e projetos. nunca trabalhei
+            nesta area mais para mim seria um passo inicial onde almejo migrar
+            de carreira. Na sua empresa, buscarei oportunidades semelhantes para
+            otimizar seus códigos.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Automação Residencial
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Assistir videos de Tecnologia
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> nnnnnnn
-            </li>
-          </ul>
+          <p>
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Meus <strong className="purple"> Hobbies</strong>
+            </h1>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            ""{" "}
+            <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+              <strong className="pur"> PROGRAMAÇÃO WEB---</strong>
+
+              <span className="wave" role="img" aria-labelledby="wave">
+                💻
+              </span>
+            </h1>
+            <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+              <strong className="pur"> VIDEOS DE TECNOLOGIAS---</strong>
+
+              <span className="wave" role="img" aria-labelledby="wave">
+                📽
+              </span>
+            </h1>
+            <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+              <strong className="pur"> AUTOMAÇÃO RESIDENCIAL---</strong>
+
+              <span className="wave" role="img" aria-labelledby="wave">
+                📲
+              </span>
+            </h1>
           </p>
-          <footer className="blockquote-footer">JUMF</footer>
+          <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+            Minhas <strong className="purple"> Habilidades:</strong>
+          </h1>
+
+          <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+            <strong className="pur">HTML--CSS--JAVASCRIPT</strong>
+          </h1>
+          <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+            <strong className="pur">
+              REACT NATIVE--REACTJS--NEXTJS--NESTJS
+            </strong>
+          </h1>
+          <h1 style={{ fontSize: "1.0em", paddingBottom: "20px" }}>
+            <strong className="pur">MONGODB--FIREBASE--POSTGRES</strong>
+          </h1>
         </blockquote>
       </Card.Body>
     </Card>

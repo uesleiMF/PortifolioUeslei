@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-//import v from "../../Assets/Projects/t.mp4";
+import A from "../../Assets/Projects/A.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -20,12 +20,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              src=""
-              type=""
-              title=""
-              description="Personal Chatssages."
+             imgPath={A}
+              isBlog={false}
+              title="Rede de Casais"
+              description="Ministerio de Casais IEQ."
               ghLink="https://github.com/uesleiMF"
-              demoLink="https://"
+              demoLink="https://front1-vert.vercel.app/"
             />
           </Col>
 
@@ -41,16 +41,6 @@ function Projects() {
           </Col>
 
          
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="AI"
-              description="Used the plant disease."
-              ghLink="https://github.com/uesleiMF"
-              demoLink="https://"
-            />
-          </Col>
         
 
         </Row>

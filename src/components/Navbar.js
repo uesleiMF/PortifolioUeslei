@@ -8,12 +8,14 @@ import {SlGraduation} from "react-icons/sl";
 
 import {
  
-  AiOutlineHome,
+  
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { ImProfile } from "react-icons/im";
+
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -54,7 +56,7 @@ function NavBar() {
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" }} /> Inicio
+                <AiOutlineUser style={{ marginBottom: "2px" }} /> Sobre
               </Nav.Link>
             </Nav.Item>
 
@@ -64,7 +66,7 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> Sobre
+                <ImProfile style={{ marginBottom: "2px" }} /> Conhecimentos
               </Nav.Link>
             </Nav.Item>
 
