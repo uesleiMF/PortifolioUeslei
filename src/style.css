@@ -401,8 +401,8 @@ button:focus {
 
 .social-icons {
   display: inline-block !important;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
 }
 
 .icon-colour {
@@ -444,7 +444,7 @@ button:focus {
   margin-bottom: 0.5em !important;
 }
 .footer-icons {
-  margin-top: 0.5em !important;
+  margin-top: 1.5em !important;
   margin-bottom: 0.5em !important;
   padding: 0 !important;
 }
@@ -472,7 +472,7 @@ button:focus {
 
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(223, 198, 230, 0.459) !important;
-  color: white !important;
+  color: rgb(245, 235, 235) !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
@@ -495,7 +495,7 @@ button:focus {
 .blog-card-view {
   background-color: transparent !important;
   box-shadow: 0 3px 3px 2px rgba(206, 3, 247, 0.459) !important;
-  color: white !important;
+  color: rgb(184, 137, 137) !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
 }
