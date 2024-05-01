@@ -22,9 +22,10 @@ import c19 from "../../components/Img/39.png";
 import c20 from "../../components/Img/40.png";
 import c21 from "../../components/Img/41.png";
 import c22 from "../../components/Img/42.png";
-
-
-
+import c23 from "../../components/Img/h.n.png";
+import c24 from "../../components/Img/h.n1.png";
+import c25 from "../../components/Img/h.b.png";
+import c26 from "../../components/Img/h.b1.png";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -462,12 +463,53 @@ export default function Pag() {
               </div>
             </div>
           </div>
-
-
-
-
+          <div class="d-flex align-items-center justify-content-center p-5">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img
+                    src={c23}
+                    alt="bo"
+                    height="255px"
+                    className="card-img-top"
+                  />{" "}
+                </div>
+                <div class="flip-card-back">
+                <img
+                    src={c24}
+                    alt="bo"
+                    height="255px"
+                    className="card-img-top"
+                  />{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center justify-content-center p-5">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                  <img
+                    src={c25}
+                    alt="bo"
+                    height="255px"
+                    className="card-img-top"
+                  />{" "}
+                </div>
+                <div class="flip-card-back">
+                <img
+                    src={c26}
+                    alt="bo"
+                    height="255px"
+                    className="card-img-top"
+                  />{" "}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+    
   );
 }
